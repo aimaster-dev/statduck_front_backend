@@ -1,0 +1,1027 @@
+[
+    {
+      "question": "What team has won the most NBA championships?",
+      "options": {
+        "A": "Los Angeles Lakers",
+        "B": "Boston Celtics",
+        "C": "Chicago Bulls",
+        "D": "Golden State Warriors"
+      },
+      "answer": "B",
+      "explanation": "The Boston Celtics have won the most NBA championships with 17 titles."
+    },
+    {
+      "question": "Who holds the record for the most career assists in NBA history?",
+      "options": {
+        "A": "Magic Johnson",
+        "B": "John Stockton",
+        "C": "Jason Kidd",
+        "D": "Steve Nash"
+      },
+      "answer": "B",
+      "explanation": "John Stockton holds the record for the most career assists in NBA history."
+    },
+    {
+      "question": "Which player won the NBA MVP award in the 2018-2019 season?",
+      "options": {
+        "A": "LeBron James",
+        "B": "James Harden",
+        "C": "Giannis Antetokounmpo",
+        "D": "Kawhi Leonard"
+      },
+      "answer": "C",
+      "explanation": "Giannis Antetokounmpo won the NBA MVP award in the 2018-2019 season."
+    },
+    {
+      "question": "Which team won the first NBA championship?",
+      "options": {
+        "A": "Boston Celtics",
+        "B": "Los Angeles Lakers",
+        "C": "Chicago Stags",
+        "D": "Philadelphia Warriors"
+      },
+      "answer": "D",
+      "explanation": "The Philadelphia Warriors won the first NBA championship in the 1946-1947 season."
+    },
+    {
+      "question": "Who is the youngest player to score 10,000 points in NBA history?",
+      "options": {
+        "A": "Kobe Bryant",
+        "B": "LeBron James",
+        "C": "Kevin Durant",
+        "D": "Michael Jordan"
+      },
+      "answer": "B",
+      "explanation": "LeBron James is the youngest player to score 10,000 points in NBA history."
+    },
+    {
+      "question": "Which player holds the record for the highest career scoring average in NBA history?",
+      "options": {
+        "A": "Michael Jordan",
+        "B": "Wilt Chamberlain",
+        "C": "LeBron James",
+        "D": "Kareem Abdul-Jabbar"
+      },
+      "answer": "B",
+      "explanation": "Wilt Chamberlain holds the record for the highest career scoring average in NBA history."
+    },
+    {
+      "question": "Which team holds the record for the longest winning streak in NBA history?",
+      "options": {
+        "A": "Golden State Warriors",
+        "B": "Miami Heat",
+        "C": "Los Angeles Lakers",
+        "D": "Boston Celtics"
+      },
+      "answer": "D",
+      "explanation": "The Boston Celtics hold the record for the longest winning streak in NBA history with 33 consecutive wins."
+    },
+    {
+      "question": "Who was the first player to be drafted straight out of high school to the NBA?",
+      "options": {
+        "A": "Kevin Garnett",
+        "B": "Kobe Bryant",
+        "C": "LeBron James",
+        "D": "Dwight Howard"
+      },
+      "answer": "A",
+      "explanation": "Kevin Garnett was the first player to be drafted straight out of high school to the NBA in 1995."
+    },
+    {
+      "question": "Which player is known as 'The Answer'?",
+      "options": {
+        "A": "Allen Iverson",
+        "B": "Shaquille O'Neal",
+        "C": "Tim Duncan",
+        "D": "Tracy McGrady"
+      },
+      "answer": "A",
+      "explanation": "Allen Iverson is known as 'The Answer'."
+    },
+    {
+      "question": "Who won the NBA Finals MVP in the 2019-2020 season?",
+      "options": {
+        "A": "LeBron James",
+        "B": "Anthony Davis",
+        "C": "Kawhi Leonard",
+        "D": "Jimmy Butler"
+      },
+      "answer": "A",
+      "explanation": "LeBron James won the NBA Finals MVP in the 2019-2020 season."
+    },
+    {
+      "question": "Which team drafted Dirk Nowitzki in the 1998 NBA Draft?",
+      "options": {
+        "A": "Dallas Mavericks",
+        "B": "Milwaukee Bucks",
+        "C": "Boston Celtics",
+        "D": "Phoenix Suns"
+      },
+      "answer": "D",
+      "explanation": "The Milwaukee Bucks drafted Dirk Nowitzki in the 1998 NBA Draft and then traded him to the Dallas Mavericks."
+    },
+    {
+      "question": "Who holds the record for the most blocks in a single NBA game?",
+      "options": {
+        "A": "Hakeem Olajuwon",
+        "B": "Dikembe Mutombo",
+        "C": "Shaquille O'Neal",
+        "D": "David Robinson"
+      },
+      "answer": "B",
+      "explanation": "Dikembe Mutombo holds the record for the most blocks in a single NBA game with 12 blocks."
+    },
+    {
+      "question": "Which team drafted Kobe Bryant in the 1996 NBA Draft?",
+      "options": {
+        "A": "Charlotte Hornets",
+        "B": "Los Angeles Lakers",
+        "C": "Philadelphia 76ers",
+        "D": "Golden State Warriors"
+      },
+      "answer": "A",
+      "explanation": "The Charlotte Hornets drafted Kobe Bryant in the 1996 NBA Draft and then traded him to the Los Angeles Lakers."
+    },
+    {
+      "question": "Who holds the record for the most rebounds in NBA history?",
+      "options": {
+        "A": "Wilt Chamberlain",
+        "B": "Bill Russell",
+        "C": "Kareem Abdul-Jabbar",
+        "D": "Moses Malone"
+      },
+      "answer": "A",
+      "explanation": "Wilt Chamberlain holds the record for the most rebounds in NBA history."
+    },
+    {
+      "question": "Which player won the NBA Rookie of the Year award in the 2019-2020 season?",
+      "options": {
+        "A": "Zion Williamson",
+        "B": "Ja Morant",
+        "C": "RJ Barrett",
+        "D": "Kendrick Nunn"
+      },
+      "answer": "B",
+      "explanation": "Ja Morant won the NBA Rookie of the Year award in the 2019-2020 season."
+    },
+    {
+      "question": "Which team did Michael Jordan play for when he made his NBA comeback in 2001?",
+      "options": {
+        "A": "Washington Wizards",
+        "B": "Chicago Bulls",
+        "C": "Los Angeles Lakers",
+        "D": "Miami Heat"
+      },
+      "answer": "A",
+      "explanation": "Michael Jordan played for the Washington Wizards when he made his NBA comeback in 2001."
+    },
+    {
+      "question": "Who is the tallest player in NBA history?",
+      "options": {
+        "A": "Yao Ming",
+        "B": "Manute Bol",
+        "C": "Gheorghe Mureșan",
+        "D": "Shawn Bradley"
+      },
+      "answer": "B",
+      "explanation": "Manute Bol is the tallest player in NBA history, standing at 7 feet 7 inches tall."
+    },
+    {
+      "question": "Which team won the NBA championship in the 2016-2017 season?",
+      "options": {
+        "A": "Golden State Warriors",
+        "B": "Cleveland Cavaliers",
+        "C": "San Antonio Spurs",
+        "D": "Boston Celtics"
+      },
+      "answer": "A",
+      "explanation": "The Golden State Warriors won the NBA championship in the 2016-2017 season."
+    },
+    {
+      "question": "Who holds the record for the most steals in NBA history?",
+      "options": {
+        "A": "John Stockton",
+        "B": "Chris Paul",
+        "C": "Michael Jordan",
+        "D": "Gary Payton"
+      },
+      "answer": "A",
+      "explanation": "John Stockton holds the record for the most steals in NBA history."
+    },
+    {
+      "question": "Which player was known as 'The Dream'?",
+      "options": {
+        "A": "Shaquille O'Neal",
+        "B": "Karl Malone",
+        "C": "Hakeem Olajuwon",
+        "D": "Patrick Ewing"
+      },
+      "answer": "C",
+      "explanation": "Hakeem Olajuwon was known as 'The Dream'."
+    },
+    {
+      "question": "Who was the first player to be named NBA Finals MVP in consecutive seasons?",
+      "options": {
+        "A": "Michael Jordan",
+        "B": "Magic Johnson",
+        "C": "Larry Bird",
+        "D": "Kobe Bryant"
+      },
+      "answer": "B",
+      "explanation": "Magic Johnson was the first player to be named NBA Finals MVP in consecutive seasons (1980 and 1982)."
+    },
+    {
+        "question": "Who is the NBA's all-time leading scorer?",
+        "options": {
+          "A": "Michael Jordan",
+          "B": "Kobe Bryant",
+          "C": "Kareem Abdul-Jabbar",
+          "D": "LeBron James"
+        },
+        "answer": "C",
+        "explanation": "Kareem Abdul-Jabbar is the NBA's all-time leading scorer with 38,387 points."
+      },
+      {
+        "question": "Which team holds the record for the most wins in a single NBA regular season?",
+        "options": {
+          "A": "Chicago Bulls",
+          "B": "Golden State Warriors",
+          "C": "Los Angeles Lakers",
+          "D": "Boston Celtics"
+        },
+        "answer": "B",
+        "explanation": "The Golden State Warriors hold the record for the most wins in a single NBA regular season with 73 wins in the 2015-2016 season."
+      },
+      {
+        "question": "Who won the NBA Defensive Player of the Year award in the 2020-2021 season?",
+        "options": {
+          "A": "Rudy Gobert",
+          "B": "Giannis Antetokounmpo",
+          "C": "Anthony Davis",
+          "D": "Ben Simmons"
+        },
+        "answer": "A",
+        "explanation": "Rudy Gobert won the NBA Defensive Player of the Year award in the 2020-2021 season."
+      },
+      {
+        "question": "Which team won the first NBA championship in the 21st century?",
+        "options": {
+          "A": "Los Angeles Lakers",
+          "B": "San Antonio Spurs",
+          "C": "Miami Heat",
+          "D": "Detroit Pistons"
+        },
+        "answer": "D",
+        "explanation": "The Detroit Pistons won the first NBA championship in the 21st century in the 2003-2004 season."
+      },
+      {
+        "question": "Who is the oldest player to ever play in an NBA game?",
+        "options": {
+          "A": "Dirk Nowitzki",
+          "B": "Vince Carter",
+          "C": "Manu Ginóbili",
+          "D": "Paul Pierce"
+        },
+        "answer": "B",
+        "explanation": "Vince Carter is the oldest player to ever play in an NBA game, having played his final game at the age of 43."
+      },
+      {
+        "question": "Which team holds the record for the longest losing streak in NBA history?",
+        "options": {
+          "A": "Philadelphia 76ers",
+          "B": "Charlotte Bobcats",
+          "C": "Orlando Magic",
+          "D": "Cleveland Cavaliers"
+        },
+        "answer": "A",
+        "explanation": "The Philadelphia 76ers hold the record for the longest losing streak in NBA history with 28 consecutive losses during the 2014-2015 season."
+      },
+      {
+        "question": "Who is the only player to win NBA MVP, NBA Finals MVP, and NBA Defensive Player of the Year in the same season?",
+        "options": {
+          "A": "Michael Jordan",
+          "B": "Shaquille O'Neal",
+          "C": "LeBron James",
+          "D": "Hakeem Olajuwon"
+        },
+        "answer": "D",
+        "explanation": "Hakeem Olajuwon is the only player to win NBA MVP, NBA Finals MVP, and NBA Defensive Player of the Year in the same season (1993-1994)."
+      },
+      {
+        "question": "Which player holds the record for the most points scored in a single NBA game?",
+        "options": {
+          "A": "Kobe Bryant",
+          "B": "Wilt Chamberlain",
+          "C": "Michael Jordan",
+          "D": "Elgin Baylor"
+        },
+        "answer": "B",
+        "explanation": "Wilt Chamberlain holds the record for the most points scored in a single NBA game with 100 points on March 2, 1962."
+      },
+      {
+        "question": "Who was the first NBA player to win the NBA scoring title seven consecutive times?",
+        "options": {
+          "A": "Michael Jordan",
+          "B": "Wilt Chamberlain",
+          "C": "Kareem Abdul-Jabbar",
+          "D": "LeBron James"
+        },
+        "answer": "B",
+        "explanation": "Wilt Chamberlain was the first NBA player to win the NBA scoring title seven consecutive times from 1959 to 1966."
+      },
+      {
+        "question": "Which NBA team holds the record for the most consecutive NBA Finals appearances?",
+        "options": {
+          "A": "Los Angeles Lakers",
+          "B": "Boston Celtics",
+          "C": "Chicago Bulls",
+          "D": "Golden State Warriors"
+        },
+        "answer": "B",
+        "explanation": "The Boston Celtics hold the record for the most consecutive NBA Finals appearances with 10 consecutive appearances from 1957 to 1966."
+      },
+      {
+        "question": "Who is the only player to win NBA MVP, NBA Finals MVP, and Olympic gold medal in the same year?",
+        "options": {
+          "A": "Michael Jordan",
+          "B": "LeBron James",
+          "C": "Kobe Bryant",
+          "D": "Magic Johnson"
+        },
+        "answer": "A",
+        "explanation": "Michael Jordan is the only player to win NBA MVP, NBA Finals MVP, and Olympic gold medal in the same year (1992)."
+      },
+      {
+        "question": "Which team drafted Tim Duncan in the 1997 NBA Draft?",
+        "options": {
+          "A": "San Antonio Spurs",
+          "B": "Los Angeles Lakers",
+          "C": "Boston Celtics",
+          "D": "Philadelphia 76ers"
+        },
+        "answer": "A",
+        "explanation": "The San Antonio Spurs drafted Tim Duncan with the first overall pick in the 1997 NBA Draft."
+      },
+      {
+        "question": "Who is the only player to win NBA MVP, NBA Finals MVP, and NBA All-Star Game MVP in the same year?",
+        "options": {
+          "A": "LeBron James",
+          "B": "Michael Jordan",
+          "C": "Kobe Bryant",
+          "D": "Shaquille O'Neal"
+        },
+        "answer": "B",
+        "explanation": "Michael Jordan is the only player to win NBA MVP, NBA Finals MVP, and NBA All-Star Game MVP in the same year (1996)."
+      },
+      {
+        "question": "Which player won the NBA Rookie of the Year award in the 2018-2019 season?",
+        "options": {
+          "A": "Luka Dončić",
+          "B": "Trae Young",
+          "C": "Deandre Ayton",
+          "D": "Shai Gilgeous-Alexander"
+        },
+        "answer": "A",
+        "explanation": "Luka Dončić won the NBA Rookie of the Year award in the 2018-2019 season."
+      },
+      {
+        "question": "Which team holds the record for the longest playoff winning streak in NBA history?",
+        "options": {
+          "A": "Los Angeles Lakers",
+          "B": "Miami Heat",
+          "C": "Golden State Warriors",
+          "D": "Chicago Bulls"
+        },
+        "answer": "A",
+        "explanation": "The Los Angeles Lakers hold the record for the longest playoff winning streak in NBA history with 13 consecutive wins during the 1988 playoffs."
+      },
+      {
+        "question": "Who was the first player to win NBA MVP, NBA Finals MVP, and NBA All-Star Game MVP in the same season?",
+        "options": {
+          "A": "Kareem Abdul-Jabbar",
+          "B": "Magic Johnson",
+          "C": "Michael Jordan",
+          "D": "Shaquille O'Neal"
+        },
+        "answer": "C",
+        "explanation": "Michael Jordan was the first player to win NBA MVP, NBA Finals MVP, and NBA All-Star Game MVP in the same season (1996)."
+      },
+      {
+        "question": "Which player has won the most NBA championships as a player?",
+        "options": {
+          "A": "Bill Russell",
+          "B": "Michael Jordan",
+          "C": "Magic Johnson",
+          "D": "Kobe Bryant"
+        },
+        "answer": "A",
+        "explanation": "Bill Russell holds the record for the most NBA championships won by a player with 11 championships."
+      },
+      {
+        "question": "Which NBA player is known as 'The Greek Freak'?",
+        "options": {
+          "A": "Giannis Antetokounmpo",
+          "B": "Luka Dončić",
+          "C": "Joel Embiid",
+          "D": "Kristaps Porziņģis"
+        },
+        "answer": "A",
+        "explanation": "Giannis Antetokounmpo is known as 'The Greek Freak'."
+      },
+      {
+        "question": "Who holds the record for the most three-pointers made in a single NBA game?",
+        "options": {
+          "A": "Stephen Curry",
+          "B": "Klay Thompson",
+          "C": "Ray Allen",
+          "D": "James Harden"
+        },
+        "answer": "B",
+        "explanation": "Klay Thompson holds the record for the most three-pointers made in a single NBA game with 14 three-pointers."
+      },
+      {
+        "question": "Which NBA player has the nickname 'The Beard'?",
+        "options": {
+          "A": "LeBron James",
+          "B": "Stephen Curry",
+          "C": "James Harden",
+          "D": "Kevin Durant"
+        },
+        "answer": "C",
+        "explanation": "James Harden has the nickname 'The Beard'."
+      },
+      {
+        "question": "Who is the youngest player to ever win the NBA Most Valuable Player (MVP) award?",
+        "options": {
+          "A": "LeBron James",
+          "B": "Derrick Rose",
+          "C": "Kevin Durant",
+          "D": "Magic Johnson"
+        },
+        "answer": "B",
+        "explanation": "Derrick Rose is the youngest player to ever win the NBA Most Valuable Player (MVP) award at the age of 22."
+      },
+      {
+        "question": "Which NBA player famously scored 81 points in a single game?",
+        "options": {
+          "A": "Kobe Bryant",
+          "B": "Michael Jordan",
+          "C": "Wilt Chamberlain",
+          "D": "Allen Iverson"
+        },
+        "answer": "A",
+        "explanation": "Kobe Bryant famously scored 81 points in a single game against the Toronto Raptors on January 22, 2006."
+      },
+      {
+        "question": "Who holds the record for the most assists in a single NBA game?",
+        "options": {
+          "A": "John Stockton",
+          "B": "Magic Johnson",
+          "C": "Jason Kidd",
+          "D": "Chris Paul"
+        },
+        "answer": "A",
+        "explanation": "John Stockton holds the record for the most assists in a single NBA game with 30 assists."
+      },
+      {
+        "question": "Which team holds the record for the most consecutive playoff appearances in NBA history?",
+        "options": {
+          "A": "San Antonio Spurs",
+          "B": "Miami Heat",
+          "C": "Los Angeles Lakers",
+          "D": "Boston Celtics"
+        },
+        "answer": "A",
+        "explanation": "The San Antonio Spurs hold the record for the most consecutive playoff appearances in NBA history with 22 consecutive playoff appearances."
+      },
+      {
+        "question": "Who is the only player in NBA history to win Defensive Player of the Year and Sixth Man of the Year awards in the same season?",
+        "options": {
+          "A": "Dennis Rodman",
+          "B": "Ben Wallace",
+          "C": "Manu Ginóbili",
+          "D": "Kawhi Leonard"
+        },
+        "answer": "B",
+        "explanation": "Ben Wallace is the only player in NBA history to win Defensive Player of the Year and Sixth Man of the Year awards in the same season (2001-2002)."
+      },
+      {
+        "question": "Which team drafted Dirk Nowitzki in the 1998 NBA Draft?",
+        "options": {
+          "A": "Dallas Mavericks",
+          "B": "Milwaukee Bucks",
+          "C": "Boston Celtics",
+          "D": "Phoenix Suns"
+        },
+        "answer": "D",
+        "explanation": "The Milwaukee Bucks drafted Dirk Nowitzki in the 1998 NBA Draft and then traded him to the Dallas Mavericks."
+      },
+      {
+        "question": "Who is the NBA's all-time leader in steals?",
+        "options": {
+          "A": "John Stockton",
+          "B": "Chris Paul",
+          "C": "Michael Jordan",
+          "D": "Gary Payton"
+        },
+        "answer": "A",
+        "explanation": "John Stockton is the NBA's all-time leader in steals."
+      },
+      {
+        "question": "Which player won the NBA Rookie of the Year award in the 2017-2018 season?",
+        "options": {
+          "A": "Ben Simmons",
+          "B": "Donovan Mitchell",
+          "C": "Jayson Tatum",
+          "D": "Kyle Kuzma"
+        },
+        "answer": "A",
+        "explanation": "Ben Simmons won the NBA Rookie of the Year award in the 2017-2018 season."
+      },
+      {
+        "question": "Who is the only player to record a quadruple-double in an NBA game?",
+        "options": {
+          "A": "Hakeem Olajuwon",
+          "B": "David Robinson",
+          "C": "Alvin Robertson",
+          "D": "Draymond Green"
+        },
+        "answer": "C",
+        "explanation": "Alvin Robertson is the only player to record a quadruple-double in an NBA game."
+      },
+      {
+        "question": "Which NBA player is known as 'The Admiral'?",
+        "options": {
+          "A": "David Robinson",
+          "B": "Patrick Ewing",
+          "C": "Shaquille O'Neal",
+          "D": "Hakeem Olajuwon"
+        },
+        "answer": "A",
+        "explanation": "David Robinson is known as 'The Admiral'."
+      },
+      {
+        "question": "Who is the NBA's all-time leader in three-pointers made?",
+        "options": {
+          "A": "Ray Allen",
+          "B": "Stephen Curry",
+          "C": "Reggie Miller",
+          "D": "Kyle Korver"
+        },
+        "answer": "B",
+        "explanation": "Stephen Curry is the NBA's all-time leader in three-pointers made."
+      },
+      {
+        "question": "Who holds the record for the most triple-doubles in NBA history?",
+        "options": {
+          "A": "Magic Johnson",
+          "B": "Oscar Robertson",
+          "C": "Russell Westbrook",
+          "D": "LeBron James"
+        },
+        "answer": "C",
+        "explanation": "Russell Westbrook holds the record for the most triple-doubles in NBA history."
+      },
+      {
+        "question": "Which NBA player is known as 'The Admiral'?",
+        "options": {
+          "A": "David Robinson",
+          "B": "Patrick Ewing",
+          "C": "Shaquille O'Neal",
+          "D": "Hakeem Olajuwon"
+        },
+        "answer": "A",
+        "explanation": "David Robinson is known as 'The Admiral'."
+      },
+      {
+        "question": "Who is the NBA's all-time leader in blocks?",
+        "options": {
+          "A": "Hakeem Olajuwon",
+          "B": "Dikembe Mutombo",
+          "C": "Kareem Abdul-Jabbar",
+          "D": "Shaquille O'Neal"
+        },
+        "answer": "B",
+        "explanation": "Dikembe Mutombo is the NBA's all-time leader in blocks."
+      },
+      {
+        "question": "Which NBA player famously wore jersey number 23 throughout his career?",
+        "options": {
+          "A": "Kobe Bryant",
+          "B": "Michael Jordan",
+          "C": "LeBron James",
+          "D": "Magic Johnson"
+        },
+        "answer": "B",
+        "explanation": "Michael Jordan famously wore jersey number 23 throughout his career with the Chicago Bulls and Washington Wizards."
+      },
+      {
+        "question": "Who is the only player to win NBA MVP, NBA Finals MVP, and NBA Defensive Player of the Year in the same season?",
+        "options": {
+          "A": "Michael Jordan",
+          "B": "Kobe Bryant",
+          "C": "Hakeem Olajuwon",
+          "D": "Shaquille O'Neal"
+        },
+        "answer": "C",
+        "explanation": "Hakeem Olajuwon is the only player to win NBA MVP, NBA Finals MVP, and NBA Defensive Player of the Year in the same season (1993-1994)."
+      },
+      {
+        "question": "Which team drafted Dirk Nowitzki in the 1998 NBA Draft?",
+        "options": {
+          "A": "Dallas Mavericks",
+          "B": "Milwaukee Bucks",
+          "C": "Boston Celtics",
+          "D": "Phoenix Suns"
+        },
+        "answer": "B",
+        "explanation": "The Milwaukee Bucks drafted Dirk Nowitzki in the 1998 NBA Draft and then traded him to the Dallas Mavericks."
+      },
+      {
+        "question": "Who is the NBA's all-time leader in assists?",
+        "options": {
+          "A": "John Stockton",
+          "B": "Magic Johnson",
+          "C": "Jason Kidd",
+          "D": "Chris Paul"
+        },
+        "answer": "A",
+        "explanation": "John Stockton is the NBA's all-time leader in assists."
+      },
+      {
+        "question": "Which player won the NBA Rookie of the Year award in the 2017-2018 season?",
+        "options": {
+          "A": "Ben Simmons",
+          "B": "Donovan Mitchell",
+          "C": "Jayson Tatum",
+          "D": "Kyle Kuzma"
+        },
+        "answer": "A",
+        "explanation": "Ben Simmons won the NBA Rookie of the Year award in the 2017-2018 season."
+      },
+      {
+        "question": "Who is the only player in NBA history to win Defensive Player of the Year and Sixth Man of the Year awards in the same season?",
+        "options": {
+          "A": "Dennis Rodman",
+          "B": "Ben Wallace",
+          "C": "Manu Ginóbili",
+          "D": "Kawhi Leonard"
+        },
+        "answer": "B",
+        "explanation": "Ben Wallace is the only player in NBA history to win Defensive Player of the Year and Sixth Man of the Year awards in the same season (2001-2002)."
+      },
+      {
+        "question": "Which NBA player is known as 'The Greek Freak'?",
+        "options": {
+          "A": "Giannis Antetokounmpo",
+          "B": "Luka Dončić",
+          "C": "Joel Embiid",
+          "D": "Kristaps Porziņģis"
+        },
+        "answer": "A",
+        "explanation": "Giannis Antetokounmpo is known as 'The Greek Freak'."
+      },
+      {
+        "question": "Who holds the record for the most three-pointers made in a single NBA game?",
+        "options": {
+          "A": "Stephen Curry",
+          "B": "Klay Thompson",
+          "C": "Ray Allen",
+          "D": "James Harden"
+        },
+        "answer": "B",
+        "explanation": "Klay Thompson holds the record for the most three-pointers made in a single NBA game with 14 three-pointers."
+      },
+      {
+        "question": "Who is the NBA's all-time leader in points per game?",
+        "options": {
+          "A": "Michael Jordan",
+          "B": "LeBron James",
+          "C": "Wilt Chamberlain",
+          "D": "Kareem Abdul-Jabbar"
+        },
+        "answer": "C",
+        "explanation": "Wilt Chamberlain is the NBA's all-time leader in points per game with an average of 30.07 points per game."
+      },
+      {
+        "question": "Which player has won the most NBA championships?",
+        "options": {
+          "A": "Bill Russell",
+          "B": "Michael Jordan",
+          "C": "Magic Johnson",
+          "D": "Kobe Bryant"
+        },
+        "answer": "A",
+        "explanation": "Bill Russell holds the record for the most NBA championships won by a player with 11 championships."
+      },
+      {
+        "question": "Who was the first overall pick in the 2003 NBA Draft?",
+        "options": {
+          "A": "LeBron James",
+          "B": "Dwyane Wade",
+          "C": "Carmelo Anthony",
+          "D": "Chris Bosh"
+        },
+        "answer": "A",
+        "explanation": "LeBron James was the first overall pick in the 2003 NBA Draft, selected by the Cleveland Cavaliers."
+      },
+      {
+        "question": "Which team holds the record for the longest winning streak in NBA history?",
+        "options": {
+          "A": "Golden State Warriors",
+          "B": "Miami Heat",
+          "C": "Los Angeles Lakers",
+          "D": "Chicago Bulls"
+        },
+        "answer": "C",
+        "explanation": "The Los Angeles Lakers hold the record for the longest winning streak in NBA history with 33 consecutive wins during the 1971-1972 season."
+      },
+      {
+        "question": "Who is the youngest player to score 10,000 points in NBA history?",
+        "options": {
+          "A": "LeBron James",
+          "B": "Kevin Durant",
+          "C": "Kobe Bryant",
+          "D": "Michael Jordan"
+        },
+        "answer": "A",
+        "explanation": "LeBron James is the youngest player to score 10,000 points in NBA history."
+      },
+      {
+        "question": "Which NBA player has won the most MVP awards?",
+        "options": {
+          "A": "Michael Jordan",
+          "B": "LeBron James",
+          "C": "Kareem Abdul-Jabbar",
+          "D": "Bill Russell"
+        },
+        "answer": "C",
+        "explanation": "Kareem Abdul-Jabbar has won the most MVP awards in NBA history with six MVP awards."
+      },
+      {
+        "question": "Who is the only player to record a quadruple-double in an NBA playoff game?",
+        "options": {
+          "A": "Hakeem Olajuwon",
+          "B": "Magic Johnson",
+          "C": "LeBron James",
+          "D": "Charles Barkley"
+        },
+        "answer": "A",
+        "explanation": "Hakeem Olajuwon is the only player to record a quadruple-double in an NBA playoff game."
+      },
+      {
+        "question": "Which team won the first NBA championship?",
+        "options": {
+          "A": "Boston Celtics",
+          "B": "New York Knicks",
+          "C": "Chicago Stags",
+          "D": "Philadelphia Warriors"
+        },
+        "answer": "D",
+        "explanation": "The Philadelphia Warriors won the first NBA championship in the 1946-1947 season."
+      },
+      {
+        "question": "Which player won the NBA Rookie of the Year award in the 2019-2020 season?",
+        "options": {
+          "A": "Ja Morant",
+          "B": "Zion Williamson",
+          "C": "RJ Barrett",
+          "D": "Kendrick Nunn"
+        },
+        "answer": "D",
+        "explanation": "Kendrick Nunn won the NBA Rookie of the Year award in the 2019-2020 season."
+      },
+      {
+        "question": "Which NBA player is known as 'The Answer'?",
+        "options": {
+          "A": "Allen Iverson",
+          "B": "Dwyane Wade",
+          "C": "Tracy McGrady",
+          "D": "Carmelo Anthony"
+        },
+        "answer": "A",
+        "explanation": "Allen Iverson is known as 'The Answer'."
+      },
+      {
+        "question": "Who is the NBA's all-time leader in assists per game?",
+        "options": {
+          "A": "Magic Johnson",
+          "B": "John Stockton",
+          "C": "Jason Kidd",
+          "D": "Chris Paul"
+        },
+        "answer": "B",
+        "explanation": "John Stockton is the NBA's all-time leader in assists per game with an average of 10.5 assists per game."
+      },
+      {
+        "question": "Which NBA player has won the most NBA Finals MVP awards?",
+        "options": {
+          "A": "Michael Jordan",
+          "B": "LeBron James",
+          "C": "Magic Johnson",
+          "D": "Shaquille O'Neal"
+        },
+        "answer": "B",
+        "explanation": "LeBron James has won the most NBA Finals MVP awards with 4 MVP awards."
+      },
+      {
+        "question": "Who holds the record for the most rebounds in a single NBA game?",
+        "options": {
+          "A": "Wilt Chamberlain",
+          "B": "Bill Russell",
+          "C": "Dennis Rodman",
+          "D": "Moses Malone"
+        },
+        "answer": "A",
+        "explanation": "Wilt Chamberlain holds the record for the most rebounds in a single NBA game with 55 rebounds."
+      },
+      {
+        "question": "Which player holds the record for the most steals in a single NBA game?",
+        "options": {
+          "A": "Allen Iverson",
+          "B": "Scottie Pippen",
+          "C": "Michael Jordan",
+          "D": "Rick Barry"
+        },
+        "answer": "B",
+        "explanation": "Scottie Pippen holds the record for the most steals in a single NBA game with 10 steals."
+      },
+      {
+        "question": "Who was the first player to be unanimously selected as NBA MVP?",
+        "options": {
+          "A": "LeBron James",
+          "B": "Stephen Curry",
+          "C": "Kevin Durant",
+          "D": "Kobe Bryant"
+        },
+        "answer": "B",
+        "explanation": "Stephen Curry was the first player to be unanimously selected as NBA MVP in the 2015-2016 season."
+      },
+      {
+        "question": "Which team has won the most NBA championships?",
+        "options": {
+          "A": "Los Angeles Lakers",
+          "B": "Boston Celtics",
+          "C": "Chicago Bulls",
+          "D": "Golden State Warriors"
+        },
+        "answer": "B",
+        "explanation": "The Boston Celtics have won the most NBA championships with 17 championships."
+      },
+      {
+        "question": "Who is the NBA's all-time leader in free throw percentage?",
+        "options": {
+          "A": "Steve Nash",
+          "B": "Stephen Curry",
+          "C": "Mark Price",
+          "D": "Ray Allen"
+        },
+        "answer": "C",
+        "explanation": "Mark Price is the NBA's all-time leader in free throw percentage with a career average of 90.4%."
+      },
+      {
+        "question": "Which player holds the record for the highest points per game average in a single NBA season?",
+        "options": {
+          "A": "Michael Jordan",
+          "B": "Wilt Chamberlain",
+          "C": "Kareem Abdul-Jabbar",
+          "D": "Elgin Baylor"
+        },
+        "answer": "B",
+        "explanation": "Wilt Chamberlain holds the record for the highest points per game average in a single NBA season with 50.4 points per game."
+      },
+      {
+        "question": "Who is the NBA's all-time leader in three-point field goals made?",
+        "options": {
+          "A": "Ray Allen",
+          "B": "Stephen Curry",
+          "C": "Reggie Miller",
+          "D": "Kyle Korver"
+        },
+        "answer": "B",
+        "explanation": "Stephen Curry is the NBA's all-time leader in three-point field goals made."
+      },
+      {
+        "question": "Which team holds the record for the most consecutive NBA Finals appearances?",
+        "options": {
+          "A": "Los Angeles Lakers",
+          "B": "Boston Celtics",
+          "C": "Chicago Bulls",
+          "D": "Golden State Warriors"
+        },
+        "answer": "B",
+        "explanation": "The Boston Celtics hold the record for the most consecutive NBA Finals appearances with 10 consecutive appearances from 1957 to 1966."
+      },
+      {
+        "question": "Who is the only player to win NBA championships in three different decades?",
+        "options": {
+          "A": "Kobe Bryant",
+          "B": "Tim Duncan",
+          "C": "Michael Jordan",
+          "D": "Magic Johnson"
+        },
+        "answer": "B",
+        "explanation": "Tim Duncan is the only player to win NBA championships in three different decades (1990s, 2000s, 2010s)."
+      },
+      {
+        "question": "Which player has won the most NBA Sixth Man of the Year awards?",
+        "options": {
+          "A": "Manu Ginóbili",
+          "B": "Jamal Crawford",
+          "C": "Lou Williams",
+          "D": "James Harden"
+        },
+        "answer": "B",
+        "explanation": "Jamal Crawford has won the most NBA Sixth Man of the Year awards with 3 awards."
+      },
+      {
+        "question": "Who was the first European-born player to win NBA MVP?",
+        "options": {
+          "A": "Dirk Nowitzki",
+          "B": "Giannis Antetokounmpo",
+          "C": "Pau Gasol",
+          "D": "Tony Parker"
+        },
+        "answer": "A",
+        "explanation": "Dirk Nowitzki was the first European-born player to win NBA MVP in the 2006-2007 season."
+      },
+      {
+        "question": "Which NBA player is known as 'The Dream'?",
+        "options": {
+          "A": "Shaquille O'Neal",
+          "B": "Karl Malone",
+          "C": "Hakeem Olajuwon",
+          "D": "Patrick Ewing"
+        },
+        "answer": "C",
+        "explanation": "Hakeem Olajuwon is known as 'The Dream'."
+      },
+      {
+        "question": "Who holds the record for the most blocks in a single NBA game?",
+        "options": {
+          "A": "Dikembe Mutombo",
+          "B": "Hakeem Olajuwon",
+          "C": "David Robinson",
+          "D": "Manute Bol"
+        },
+        "answer": "D",
+        "explanation": "Manute Bol holds the record for the most blocks in a single NBA game with 15 blocks."
+      },
+      {
+        "question": "Which team has the most regular-season wins in a single NBA season?",
+        "options": {
+          "A": "Golden State Warriors",
+          "B": "Chicago Bulls",
+          "C": "Los Angeles Lakers",
+          "D": "Miami Heat"
+        },
+        "answer": "A",
+        "explanation": "The Golden State Warriors have the most regular-season wins in a single NBA season with 73 wins in the 2015-2016 season."
+      },
+      {
+        "question": "Who is the NBA's all-time leader in steals per game?",
+        "options": {
+          "A": "Michael Jordan",
+          "B": "Scottie Pippen",
+          "C": "John Stockton",
+          "D": "Magic Johnson"
+        },
+        "answer": "C",
+        "explanation": "John Stockton is the NBA's all-time leader in steals per game with an average of 2.17 steals per game."
+      },
+      {
+        "question": "Which NBA player is known as 'The Big Fundamental'?",
+        "options": {
+          "A": "Tim Duncan",
+          "B": "Kevin Garnett",
+          "C": "Dirk Nowitzki",
+          "D": "Karl Malone"
+        },
+        "answer": "A",
+        "explanation": "Tim Duncan is known as 'The Big Fundamental'."
+      },
+      {
+        "question": "Who holds the record for the most assists in an NBA playoff game?",
+        "options": {
+          "A": "Magic Johnson",
+          "B": "John Stockton",
+          "C": "Chris Paul",
+          "D": "Rajon Rondo"
+        },
+        "answer": "D",
+        "explanation": "Rajon Rondo holds the record for the most assists in an NBA playoff game with 25 assists."
+      },
+      {
+        "question": "Who is the NBA's all-time leader in total points scored?",
+        "options": {
+          "A": "Kareem Abdul-Jabbar",
+          "B": "Karl Malone",
+          "C": "LeBron James",
+          "D": "Kobe Bryant"
+        },
+        "answer": "A",
+        "explanation": "Kareem Abdul-Jabbar is the NBA's all-time leader in total points scored with 38,387 points."
+      }
+
+  ]
+  

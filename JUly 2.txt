@@ -1,0 +1,26 @@
+Last week, I've worked on backend part. During these days, I developed using experss + mongodb but I think it's better to change the backend stack using python django + postgreSQL. So, I will change the logic and finish this part this week. After that, I will focus on the ML model. 
+
+To talk about the LLM model, there are some problems to implement this. The main problem is the preparation of the dataset.
+I think the type of our dataset is following: 
+{
+        "article": "Text of the first article...",
+        "questions": [
+            {
+                "question": "What is the main topic of the article?",
+                "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+                "answer": "Option 1"
+            },
+            {
+                "question": "Who is mentioned as the key person in the article?",
+                "options": ["Person A", "Person B", "Person C", "Person D"],
+                "answer": "Person B"
+            }
+        ]
+    }
+We will use pretrained model so I think it's enough to prepare at least 5000 unique articles and 3~5 trivia questions for each article. This is our first stage of the model construction. But it need too much time, I think. I wonder how @Jawher can solve this problem.
+Then the model selection is the second stage of our project.
+Of course, Jawher's suggestion about BERT is good. But I think it's better to use GPT-4 or T5 model. This is my suggestion about our discussion in the past. I will discuss about this with @Jawher after meeting.
+Anyway, we need so much time to implement this model construction. 
+
+So I thought another way to implement this.
+During these days, I've tested the performance of the OpenAI to generate the trivia questions from the article. The result was very good. So, my suggestion is to use the OpenAI's APIs without any training for MVP mode. I wanna discuss about this idea with you.

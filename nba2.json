@@ -1,0 +1,1904 @@
+[
+    {
+        "question": "Who holds the record for the most passing yards in a single NFL season?",
+        "options": {
+            "a": "Donovan McNabb",
+            "b": "Dak Prescott",
+            "c": "Peyton Manning",
+            "d": "Kyler Murray"
+        },
+        "answer": "Peyton Manning"
+    },
+    {
+        "question": "Which player had the highest rushing yards in a single NFL season?",
+        "options": {
+            "a": "DeAngelo Williams",
+            "b": "Earl Campbell",
+            "c": "Eddie George",
+            "d": "Clinton Portis"
+        },
+        "answer": "LaDainian Tomlinson"
+    },
+    {
+        "question": "Who was the youngest quarterback to achieve a high passing yardage in a single NFL season?",
+        "options": {
+            "a": "Kyler Murray",
+            "b": "Dak Prescott",
+            "c": "Michael Vick",
+            "d": "Cam Newton"
+        },
+        "answer": "Michael Vick"
+    },
+    {
+        "question": "Which quarterback had the longest career in the NFL among the listed players?",
+        "options": {
+            "a": "Donovan McNabb",
+            "b": "Peyton Manning",
+            "c": "Philip Rivers",
+            "d": "Brett Favre"
+        },
+        "answer": "Brett Favre"
+    },
+    {
+        "question": "Who among the listed players achieved the highest rushing yards per game in a single season?",
+        "options": {
+            "a": "LaDainian Tomlinson",
+            "b": "Dalton Hilliard",
+            "c": "Eddie George",
+            "d": "Clinton Portis"
+        },
+        "answer": "LaDainian Tomlinson"
+    },
+    {
+        "question": "Who had the highest passing yards per game in a single NFL season?",
+        "options": {
+            "a": "Dak Prescott",
+            "b": "Philip Rivers",
+            "c": "Matt Ryan",
+            "d": "Jared Goff"
+        },
+        "answer": "Jared Goff"
+    },
+    {
+        "question": "Among the listed players, who achieved the highest rushing touchdowns in a single NFL season?",
+        "options": {
+            "a": "Earl Campbell",
+            "b": "Dalton Hilliard",
+            "c": "Eddie George",
+            "d": "LaDainian Tomlinson"
+        },
+        "answer": "LaDainian Tomlinson"
+    },
+    {
+        "question": "Who among the listed players played for the most NFL seasons?",
+        "options": {
+            "a": "Philip Rivers",
+            "b": "Brett Favre",
+            "c": "Matt Ryan",
+            "d": "Donovan McNabb"
+        },
+        "answer": "Brett Favre"
+    },
+    {
+        "question": "Who holds the record for the highest rushing yards per game among the listed players in a single NFL season?",
+        "options": {
+            "a": "DeAngelo Williams",
+            "b": "LaDainian Tomlinson",
+            "c": "Eddie George",
+            "d": "Clinton Portis"
+        },
+        "answer": "LaDainian Tomlinson"
+    },
+    {
+        "question": "Which quarterback had the highest completion percentage in a single NFL season?",
+        "options": {
+            "a": "Dak Prescott",
+            "b": "Kyler Murray",
+            "c": "Michael Vick",
+            "d": "Cam Newton"
+        },
+        "answer": "Dak Prescott"
+    },
+    {
+        "question": "Who holds the record for the most passing touchdowns in a single NFL season?",
+        "options": {
+        "a": "Peyton Manning",
+        "b": "Philip Rivers",
+        "c": "Matt Ryan",
+        "d": "Jared Goff"
+        },
+        "answer": "Peyton Manning"
+        },
+        {
+        "question": "Which player achieved the highest passer rating in a single NFL season?",
+        "options": {
+        "a": "Kyler Murray",
+        "b": "Philip Rivers",
+        "c": "Dak Prescott",
+        "d": "Cam Newton"
+        },
+        "answer": "Dak Prescott"
+        },
+        {
+        "question": "Who among the listed players had the most rushing attempts in a single NFL season?",
+        "options": {
+        "a": "DeAngelo Williams",
+        "b": "Earl Campbell",
+        "c": "Clinton Portis",
+        "d": "LaDainian Tomlinson"
+        },
+        "answer": "LaDainian Tomlinson"
+        },
+        {
+        "question": "Who achieved the highest rushing yards per attempt in a single NFL season?",
+        "options": {
+        "a": "Earl Campbell",
+        "b": "Dalton Hilliard",
+        "c": "Eddie George",
+        "d": "Clinton Portis"
+        },
+        "answer": "Dalton Hilliard"
+        },
+        {
+        "question": "Among the listed players, who had the fewest interceptions thrown in a single NFL season?",
+        "options": {
+        "a": "Dak Prescott",
+        "b": "Philip Rivers",
+        "c": "Brett Favre",
+        "d": "Michael Vick"
+        },
+        "answer": "Dak Prescott"
+        },
+        {
+        "question": "Who among the listed players achieved the highest rushing yards per carry in a single NFL season?",
+        "options": {
+        "a": "Earl Campbell",
+        "b": "Dalton Hilliard",
+        "c": "Eddie George",
+        "d": "Clinton Portis"
+        },
+        "answer": "Dalton Hilliard"
+        },
+        {
+        "question": "Which player had the highest total yards in a single NFL season?",
+        "options": {
+        "a": "DeAngelo Williams",
+        "b": "LaDainian Tomlinson",
+        "c": "Eddie George",
+        "d": "Clinton Portis"
+        },
+        "answer": "LaDainian Tomlinson"
+        },
+        {
+        "question": "Among the listed players, who achieved the most rushing touchdowns in their entire NFL career?",
+        "options": {
+        "a": "Earl Campbell",
+        "b": "Dalton Hilliard",
+        "c": "Eddie George",
+        "d": "LaDainian Tomlinson"
+        },
+        "answer": "LaDainian Tomlinson"
+        },
+        {
+        "question": "Who holds the record for the highest passer rating in their entire NFL career among the listed quarterbacks?",
+        "options": {
+        "a": "Kyler Murray",
+        "b": "Dak Prescott",
+        "c": "Philip Rivers",
+        "d": "Michael Vick"
+        },
+        "answer": "Dak Prescott"
+        },
+        {
+        "question": "Who among the listed players had the most receptions in a single NFL season?",
+        "options": {
+        "a": "DeAngelo Williams",
+        "b": "LaDainian Tomlinson",
+        "c": "Eddie George",
+        "d": "Clinton Portis"
+        },
+        "answer": "LaDainian Tomlinson"
+        },
+        
+    {
+        "Question": "Which NFL player had the highest rushing yards in the 1991 season?",
+        "Options": {
+            "a": "Barry Sanders",
+            "b": "Marshall Faulk",
+            "c": "LeSean McCoy",
+            "d": "Ken Anderson"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Who was the oldest quarterback to achieve a passer rating of 280.6 in a single NFL season?",
+        "Options": {
+            "a": "Brett Favre",
+            "b": "Philip Rivers",
+            "c": "Tom Brady",
+            "d": "Matthew Stafford"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "In which year did Matt Ryan have a passer rating of 282.4?",
+        "Options": {
+            "a": "2020",
+            "b": "2017",
+            "c": "2018",
+            "d": "2016"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Which quarterback had the highest passer rating in the 2013 NFL season?",
+        "Options": {
+            "a": "Matthew Stafford",
+            "b": "Philip Rivers",
+            "c": "Tony Romo",
+            "d": "Matthew Stafford"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Who was the youngest quarterback to lead in passer rating during the 2023 season?",
+        "Options": {
+            "a": "Patrick Mahomes",
+            "b": "Justin Herbert",
+            "c": "Matthew Stafford",
+            "d": "Philip Rivers"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Which running back had the highest passer rating in the 1998 season?",
+        "Options": {
+            "a": "Barry Sanders",
+            "b": "Marshall Faulk",
+            "c": "LeSean McCoy",
+            "d": "Ken Anderson"
+        },
+        "Answer": "b"
+    },
+    {
+        "Question": "Who was the quarterback for the New York Giants in the 2011 season?",
+        "Options": {
+            "a": "Eli Manning",
+            "b": "Brett Favre",
+            "c": "Kirk Cousins",
+            "d": "Tom Brady"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "In which year did Carson Wentz achieve a passer rating of 281.7?",
+        "Options": {
+            "a": "2017",
+            "b": "2016",
+            "c": "2018",
+            "d": "2019"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Which NFL player had the highest passer rating in the 2010 season?",
+        "Options": {
+            "a": "Philip Rivers",
+            "b": "Tom Brady",
+            "c": "Matthew Stafford",
+            "d": "Carson Wentz"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Who was the quarterback for the Minnesota Vikings in the 2009 season?",
+        "Options": {
+            "a": "Brett Favre",
+            "b": "Matt Schaub",
+            "c": "Kirk Cousins",
+            "d": "Tom Brady"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Which quarterback had the highest passer rating in the 2008 NFL season?",
+        "Options": {
+            "a": "Philip Rivers",
+            "b": "Tony Romo",
+            "c": "Matthew Stafford",
+            "d": "Eli Manning"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Who was the quarterback for the Houston Texans in the 2009 season?",
+        "Options": {
+            "a": "Matt Schaub",
+            "b": "Brett Favre",
+            "c": "Carson Wentz",
+            "d": "Matthew Stafford"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "In which season did Patrick Mahomes achieve a passer rating of 280.2?",
+        "Options": {
+            "a": "2023",
+            "b": "2022",
+            "c": "2021",
+            "d": "2020"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Which quarterback had the highest passer rating in the 2012 NFL season?",
+        "Options": {
+            "a": "Tony Romo",
+            "b": "Matthew Stafford",
+            "c": "Philip Rivers",
+            "d": "Brett Favre"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Who was the quarterback for the Indianapolis Colts in the 2009 season?",
+        "Options": {
+            "a": "Peyton Manning",
+            "b": "Tom Brady",
+            "c": "Ken Anderson",
+            "d": "Marshall Faulk"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Which NFL player had the highest passer rating in the 1981 season?",
+        "Options": {
+            "a": "Ken Anderson",
+            "b": "Marshall Faulk",
+            "c": "LeSean McCoy",
+            "d": "Barry Sanders"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "In which season did Ken Anderson achieve a passer rating of 279.2?",
+        "Options": {
+            "a": "1981",
+            "b": "1980",
+            "c": "1982",
+            "d": "1983"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Which running back had the highest passer rating in the 2011 season?",
+        "Options": {
+            "a": "Barry Sanders",
+            "b": "Marshall Faulk",
+            "c": "LeSean McCoy",
+            "d": "Ken Anderson"
+        },
+        "Answer": "c"
+    },
+    {
+        "Question": "Who was the quarterback for the Kansas City Chiefs in the 2023 season?",
+        "Options": {
+            "a": "Patrick Mahomes",
+            "b": "Justin Herbert",
+            "c": "Matthew Stafford",
+            "d": "Philip Rivers"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "In which year did Marshall Faulk have a passer rating of 278.7?",
+        "Options": {
+            "a": "1998",
+            "b": "1999",
+            "c": "1997",
+            "d": "2000"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Which quarterback had the highest passer rating in the 2017 NFL season?",
+        "Options": {
+            "a": "Carson Wentz",
+            "b": "Matthew Stafford",
+            "c": "Philip Rivers",
+            "d": "Tom Brady"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Which quarterback had the highest passer rating in the 2016 NFL season?",
+        "Options": {
+            "a": "Matthew Stafford",
+            "b": "Carson Wentz",
+            "c": "Philip Rivers",
+            "d": "Tom Brady"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Who was the quarterback for the San Diego Chargers in the 2008 season?",
+        "Options": {
+            "a": "Philip Rivers",
+            "b": "Brett Favre",
+            "c": "Kirk Cousins",
+            "d": "Tom Brady"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "In which year did Marshall Faulk have a passer rating of 364.7?",
+        "Options": {
+            "a": "1998",
+            "b": "1999",
+            "c": "2000",
+            "d": "2001"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Which NFL player had the highest passer rating in the 2019 season?",
+        "Options": {
+            "a": "Philip Rivers",
+            "b": "Tom Brady",
+            "c": "Matthew Stafford",
+            "d": "Carson Wentz"
+        },
+        "Answer": "d"
+    },
+    {
+        "Question": "Who was the quarterback for the Green Bay Packers in the 1997 season?",
+        "Options": {
+            "a": "Brett Favre",
+            "b": "Matt Ryan",
+            "c": "Kirk Cousins",
+            "d": "Tom Brady"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Which running back had the highest passer rating in the 2011 season?",
+        "Options": {
+            "a": "Barry Sanders",
+            "b": "Marshall Faulk",
+            "c": "LeSean McCoy",
+            "d": "Ken Anderson"
+        },
+        "Answer": "c"
+    },
+    {
+        "Question": "Who was the quarterback for the Atlanta Falcons in the 2020 season?",
+        "Options": {
+            "a": "Matt Ryan",
+            "b": "Justin Herbert",
+            "c": "Matthew Stafford",
+            "d": "Philip Rivers"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "In which year did Peyton Manning achieve a passer rating of 278.7?",
+        "Options": {
+            "a": "2009",
+            "b": "2010",
+            "c": "2011",
+            "d": "2012"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Which NFL player had the highest passer rating in the 2001 season?",
+        "Options": {
+            "a": "Marshall Faulk",
+            "b": "Tom Brady",
+            "c": "Matthew Stafford",
+            "d": "Ken Anderson"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Who was the quarterback for the Dallas Cowboys in the 2012 season?",
+        "Options": {
+            "a": "Tony Romo",
+            "b": "Matt Ryan",
+            "c": "Kirk Cousins",
+            "d": "Tom Brady"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Which running back had the highest passer rating in the 2010 season?",
+        "Options": {
+            "a": "LeSean McCoy",
+            "b": "Marshall Faulk",
+            "c": "Barry Sanders",
+            "d": "Ken Anderson"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Who was the quarterback for the New England Patriots in the 2018 season?",
+        "Options": {
+            "a": "Tom Brady",
+            "b": "Matt Ryan",
+            "c": "Kirk Cousins",
+            "d": "Philip Rivers"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "In which season did Eli Manning achieve a passer rating of 280.8?",
+        "Options": {
+            "a": "2011",
+            "b": "2010",
+            "c": "2012",
+            "d": "2013"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Which quarterback had the highest passer rating in the 2015 NFL season?",
+        "Options": {
+            "a": "Philip Rivers",
+            "b": "Tom Brady",
+            "c": "Matthew Stafford",
+            "d": "Carson Wentz"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Who was the quarterback for the Cincinnati Bengals in the 1981 season?",
+        "Options": {
+            "a": "Ken Anderson",
+            "b": "Matt Ryan",
+            "c": "Kirk Cousins",
+            "d": "Tom Brady"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Who had the highest fantasy points in 2013?",
+        "Options": {
+          "a": "LeSean McCoy",
+          "b": "Paul Hornung",
+          "c": "Christian McCaffrey",
+          "d": "Ryan Tannehill"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which player had the highest fantasy points in 1960?",
+        "Options": {
+          "a": "LeSean McCoy",
+          "b": "Paul Hornung",
+          "c": "Christian McCaffrey",
+          "d": "Ryan Tannehill"
+        },
+        "Answer": "b"
+      },
+      {
+        "Question": "Who achieved 278.5 fantasy points in 2018?",
+        "Options": {
+          "a": "Christian McCaffrey",
+          "b": "Earl Campbell",
+          "c": "Aaron Rodgers",
+          "d": "Kordell Stewart"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 278.4 fantasy points in 2019?",
+        "Options": {
+          "a": "Aaron Rodgers",
+          "b": "Tom Brady",
+          "c": "Kirk Cousins",
+          "d": "Russell Wilson"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 2007?",
+        "Options": {
+          "a": "Brian Westbrook",
+          "b": "Curtis Martin",
+          "c": "Adrian Peterson",
+          "d": "William Andrews"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB achieved 277.6 fantasy points in 2012?",
+        "Options": {
+          "a": "Kirk Cousins",
+          "b": "Russell Wilson",
+          "c": "Thurman Thomas",
+          "d": "Andrew Luck"
+        },
+        "Answer": "b"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 1996?",
+        "Options": {
+          "a": "Terry Allen",
+          "b": "Derrick Henry",
+          "c": "John Riggins",
+          "d": "Andrew Luck"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which RB scored 276.6 fantasy points in 2019?",
+        "Options": {
+          "a": "Derrick Henry",
+          "b": "John Riggins",
+          "c": "Terry Allen",
+          "d": "Andrew Luck"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 25 years old when achieving the highest fantasy points in 1960?",
+        "Options": {
+          "a": "LeSean McCoy",
+          "b": "Paul Hornung",
+          "c": "Christian McCaffrey",
+          "d": "Ryan Tannehill"
+        },
+        "Answer": "b"
+      },
+      {
+        "Question": "Which QB had the most fantasy points in 2014?",
+        "Options": {
+          "a": "Ryan Tannehill",
+          "b": "Tom Brady",
+          "c": "Kirk Cousins",
+          "d": "Russell Wilson"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 2009?",
+        "Options": {
+          "a": "Adrian Peterson",
+          "b": "William Andrews",
+          "c": "Kirk Cousins",
+          "d": "Russell Wilson"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 277.3 fantasy points in 1992?",
+        "Options": {
+          "a": "Jay Cutler",
+          "b": "Terry Allen",
+          "c": "Thurman Thomas",
+          "d": "John Riggins"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 26 years old when achieving the highest fantasy points in 1992?",
+        "Options": {
+          "a": "Jay Cutler",
+          "b": "Terry Allen",
+          "c": "Thurman Thomas",
+          "d": "John Riggins"
+        },
+        "Answer": "c"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 2019?",
+        "Options": {
+          "a": "Aaron Rodgers",
+          "b": "Derrick Henry",
+          "c": "Andrew Luck",
+          "d": "John Riggins"
+        },
+        "Answer": "b"
+      },
+      {
+        "Question": "Which RB scored 276.7 fantasy points in 1996?",
+        "Options": {
+          "a": "Terry Allen",
+          "b": "Derrick Henry",
+          "c": "John Riggins",
+          "d": "Andrew Luck"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who achieved 276.6 fantasy points in 2019?",
+        "Options": {
+          "a": "Derrick Henry",
+          "b": "John Riggins",
+          "c": "Terry Allen",
+          "d": "Andrew Luck"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who achieved 276.4 fantasy points in 1980?",
+        "Options": {
+          "a": "Billy Sims",
+          "b": "Tony Romo",
+          "c": "Carson Wentz",
+          "d": "Matthew Stafford"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 276 fantasy points in 2011?",
+        "Options": {
+          "a": "Tony Romo",
+          "b": "Josh Jacobs",
+          "c": "Peyton Manning",
+          "d": "C.J. Stroud"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 27 years old when achieving 275.9 fantasy points in 2019?",
+        "Options": {
+          "a": "Carson Wentz",
+          "b": "Matthew Stafford",
+          "c": "Josh Jacobs",
+          "d": "Peyton Manning"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB had the most fantasy points in 2012?",
+        "Options": {
+          "a": "Matthew Stafford",
+          "b": "Josh Jacobs",
+          "c": "Peyton Manning",
+          "d": "C.J. Stroud"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who achieved 275.3 fantasy points in 2022?",
+        "Options": {
+          "a": "Josh Jacobs",
+          "b": "Peyton Manning",
+          "c": "C.J. Stroud",
+          "d": "Jameis Winston"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 275 fantasy points in 2007?",
+        "Options": {
+          "a": "Peyton Manning",
+          "b": "C.J. Stroud",
+          "c": "Jameis Winston",
+          "d": "Joe Morris"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 2023?",
+        "Options": {
+          "a": "C.J. Stroud",
+          "b": "Jameis Winston",
+          "c": "Baker Mayfield",
+          "d": "Walter Payton"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which RB scored 274.8 fantasy points in 1985?",
+        "Options": {
+          "a": "Joe Morris",
+          "b": "Clinton Portis",
+          "c": "Walter Payton",
+          "d": "Austin Ekeler"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 22 years old when achieving 274.5 fantasy points in 2003?",
+        "Options": {
+          "a": "Joe Morris",
+          "b": "Clinton Portis",
+          "c": "Walter Payton",
+          "d": "Austin Ekeler"
+        },
+        "Answer": "b"
+      },
+      {
+        "Question": "Which QB had the highest fantasy points in 2023?",
+        "Options": {
+          "a": "Baker Mayfield",
+          "b": "Matthew Stafford",
+          "c": "Joe Montana",
+          "d": "Tony Romo"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 2017?",
+        "Options": {
+          "a": "Matthew Stafford",
+          "b": "Matt Ryan",
+          "c": "Daunte Culpepper",
+          "d": "Warren Moon"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 273.5 fantasy points in 2011?",
+        "Options": {
+          "a": "Matt Ryan",
+          "b": "Daunte Culpepper",
+          "c": "Warren Moon",
+          "d": "Tony Romo"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 23 years old when achieving 273.2 fantasy points in 2018?",
+        "Options": {
+          "a": "Alvin Kamara",
+          "b": "Matt Ryan",
+          "c": "Daunte Culpepper",
+          "d": "Warren Moon"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which RB scored 273.8 fantasy points in 2009?",
+        "Options": {
+          "a": "Alvin Kamara",
+          "b": "Matt Ryan",
+          "c": "Daunte Culpepper",
+          "d": "Tony Romo"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who achieved 275.6 fantasy points in 2012?",
+        "Options": {
+          "a": "Matthew Stafford",
+          "b": "Josh Jacobs",
+          "c": "Peyton Manning",
+          "d": "C.J. Stroud"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB had the most fantasy points in 2007?",
+        "Options": {
+          "a": "Peyton Manning",
+          "b": "C.J. Stroud",
+          "c": "Jameis Winston",
+          "d": "Joe Morris"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 2023?",
+        "Options": {
+          "a": "C.J. Stroud",
+          "b": "Jameis Winston",
+          "c": "Baker Mayfield",
+          "d": "Walter Payton"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which RB scored 274.8 fantasy points in 1985?",
+        "Options": {
+          "a": "Joe Morris",
+          "b": "Clinton Portis",
+          "c": "Walter Payton",
+          "d": "Austin Ekeler"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 22 years old when achieving 274.5 fantasy points in 2003?",
+        "Options": {
+          "a": "Joe Morris",
+          "b": "Clinton Portis",
+          "c": "Walter Payton",
+          "d": "Austin Ekeler"
+        },
+        "Answer": "b"
+      },
+      {
+        "Question": "Which QB had the highest fantasy points in 2023?",
+        "Options": {
+          "a": "Baker Mayfield",
+          "b": "Matthew Stafford",
+          "c": "Joe Montana",
+          "d": "Tony Romo"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who had the most fantasy points in 2015?",
+        "Options": {
+          "a": "Jameis Winston",
+          "b": "Joe Montana",
+          "c": "Tony Romo",
+          "d": "Matthew Stafford"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which RB scored 273.8 fantasy points in 2021?",
+        "Options": {
+          "a": "Austin Ekeler",
+          "b": "Joe Morris",
+          "c": "Alvin Kamara",
+          "d": "Daunte Culpepper"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 26 years old when achieving 273.6 fantasy points in 2017?",
+        "Options": {
+          "a": "Matthew Stafford",
+          "b": "Matt Ryan",
+          "c": "Daunte Culpepper",
+          "d": "Warren Moon"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 275.1 fantasy points in 2007?",
+        "Options": {
+          "a": "Peyton Manning",
+          "b": "C.J. Stroud",
+          "c": "Jameis Winston",
+          "d": "Joe Montana"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 2018?",
+        "Options": {
+          "a": "Alvin Kamara",
+          "b": "Matthew Stafford",
+          "c": "Matt Ryan",
+          "d": "Daunte Culpepper"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which RB scored 274.1 fantasy points in 2023?",
+        "Options": {
+          "a": "Baker Mayfield",
+          "b": "Walter Payton",
+          "c": "Alvin Kamara",
+          "d": "Joe Montana"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 1984?",
+        "Options": {
+          "a": "Walter Payton",
+          "b": "Austin Ekeler",
+          "c": "Joe Montana",
+          "d": "Matt Ryan"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 276.1 fantasy points in 1983?",
+        "Options": {
+          "a": "Joe Montana",
+          "b": "Tony Romo",
+          "c": "Matthew Stafford",
+          "d": "Carson Wentz"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 24 years old when achieving 276 fantasy points in 2011?",
+        "Options": {
+          "a": "Tony Romo",
+          "b": "Carson Wentz",
+          "c": "Matthew Stafford",
+          "d": "Josh Jacobs"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 276.6 fantasy points in 2017?",
+        "Options": {
+          "a": "Matthew Stafford",
+          "b": "Matt Ryan",
+          "c": "Daunte Culpepper",
+          "d": "Warren Moon"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who had the most fantasy points in 1980?",
+        "Options": {
+          "a": "Billy Sims",
+          "b": "Tony Romo",
+          "c": "Carson Wentz",
+          "d": "Matthew Stafford"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 273.8 fantasy points in 1995?",
+        "Options": {
+          "a": "Matt Ryan",
+          "b": "Daunte Culpepper",
+          "c": "Warren Moon",
+          "d": "Joe Montana"
+        },
+        "Answer": "c"
+      },
+      {
+        "Question": "Who was 28 years old when achieving 274.1 fantasy points in 2023?",
+        "Options": {
+          "a": "Baker Mayfield",
+          "b": "Walter Payton",
+          "c": "Alvin Kamara",
+          "d": "Joe Montana"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 275.6 fantasy points in 2012?",
+        "Options": {
+          "a": "Matthew Stafford",
+          "b": "Josh Jacobs",
+          "c": "Peyton Manning",
+          "d": "C.J. Stroud"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 2003?",
+        "Options": {
+          "a": "Joe Morris",
+          "b": "Clinton Portis",
+          "c": "Walter Payton",
+          "d": "Austin Ekeler"
+        },
+        "Answer": "b"
+      },
+      {
+        "Question": "Which QB had the most fantasy points in 2023?",
+        "Options": {
+          "a": "Baker Mayfield",
+          "b": "Matthew Stafford",
+          "c": "Joe Montana",
+          "d": "Tony Romo"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who achieved 273.5 fantasy points in 2011?",
+        "Options": {
+          "a": "Matt Ryan",
+          "b": "Daunte Culpepper",
+          "c": "Warren Moon",
+          "d": "Tony Romo"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which RB scored 273.2 fantasy points in 2018?",
+        "Options": {
+          "a": "Alvin Kamara",
+          "b": "Matt Ryan",
+          "c": "Daunte Culpepper",
+          "d": "Warren Moon"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 24 years old when achieving 276.6 fantasy points in 2017?",
+        "Options": {
+          "a": "Matthew Stafford",
+          "b": "Matt Ryan",
+          "c": "Daunte Culpepper",
+          "d": "Warren Moon"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 276.1 fantasy points in 1983?",
+        "Options": {
+          "a": "Joe Montana",
+          "b": "Tony Romo",
+          "c": "Matthew Stafford",
+          "d": "Carson Wentz"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who had the most fantasy points in 2007?",
+        "Options": {
+          "a": "Peyton Manning",
+          "b": "C.J. Stroud",
+          "c": "Jameis Winston",
+          "d": "Joe Morris"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 275.9 fantasy points in 2019?",
+        "Options": {
+          "a": "Carson Wentz",
+          "b": "Matthew Stafford",
+          "c": "Josh Jacobs",
+          "d": "Peyton Manning"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 27 years old when achieving 275.9 fantasy points in 2019?",
+        "Options": {
+          "a": "Carson Wentz",
+          "b": "Matthew Stafford",
+          "c": "Josh Jacobs",
+          "d": "Peyton Manning"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB had the most fantasy points in 2012?",
+        "Options": {
+          "a": "Matthew Stafford",
+          "b": "Josh Jacobs",
+          "c": "Peyton Manning",
+          "d": "C.J. Stroud"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who achieved 275.3 fantasy points in 2022?",
+        "Options": {
+          "a": "Josh Jacobs",
+          "b": "Peyton Manning",
+          "c": "C.J. Stroud",
+          "d": "Jameis Winston"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 277.6 fantasy points in 2012?",
+        "Options": {
+          "a": "Matthew Stafford",
+          "b": "Josh Jacobs",
+          "c": "Peyton Manning",
+          "d": "C.J. Stroud"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 2023?",
+        "Options": {
+          "a": "C.J. Stroud",
+          "b": "Jameis Winston",
+          "c": "Baker Mayfield",
+          "d": "Walter Payton"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which RB scored 274.8 fantasy points in 1985?",
+        "Options": {
+          "a": "Joe Morris",
+          "b": "Clinton Portis",
+          "c": "Walter Payton",
+          "d": "Austin Ekeler"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 22 years old when achieving 274.5 fantasy points in 2003?",
+        "Options": {
+          "a": "Joe Morris",
+          "b": "Clinton Portis",
+          "c": "Walter Payton",
+          "d": "Austin Ekeler"
+        },
+        "Answer": "b"
+      },
+      {
+        "Question": "Which QB had the highest fantasy points in 2023?",
+        "Options": {
+          "a": "Baker Mayfield",
+          "b": "Matthew Stafford",
+          "c": "Joe Montana",
+          "d": "Tony Romo"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who had the most fantasy points in 1981?",
+        "Options": {
+          "a": "Billy Sims",
+          "b": "Barry Sanders",
+          "c": "Thurman Thomas",
+          "d": "Maurice Jones-Drew"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 271.7 fantasy points in 2022?",
+        "Options": {
+          "a": "Tom Brady",
+          "b": "Russell Wilson",
+          "c": "Tua Tagovailoa",
+          "d": "Tom Brady"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 24 years old when achieving 271.4 fantasy points in 2022?",
+        "Options": {
+          "a": "Tom Brady",
+          "b": "Christian McCaffrey",
+          "c": "Walter Payton",
+          "d": "Thurman Thomas"
+        },
+        "Answer": "b"
+      },
+      {
+        "Question": "Which QB had the most fantasy points in 2015?",
+        "Options": {
+          "a": "Derek Carr",
+          "b": "Alex Smith",
+          "c": "Tyrod Taylor",
+          "d": "Maurice Jones-Drew"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who achieved 272.3 fantasy points in 1996?",
+        "Options": {
+          "a": "Mark Brunell",
+          "b": "Derek Carr",
+          "c": "Michael Turner",
+          "d": "Philip Rivers"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which RB scored 270.9 fantasy points in 2016?",
+        "Options": {
+          "a": "Thurman Thomas",
+          "b": "Priest Holmes",
+          "c": "Wilbert Montgomery",
+          "d": "Tyrod Taylor"
+        },
+        "Answer": "d"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 1990?",
+        "Options": {
+          "a": "Barry Sanders",
+          "b": "Jim Brown",
+          "c": "Philip Rivers",
+          "d": "Eli Manning"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 269.5 fantasy points in 2014?",
+        "Options": {
+          "a": "Philip Rivers",
+          "b": "Drew Brees",
+          "c": "Shaun Alexander",
+          "d": "Jim Brown"
+        },
+        "Answer": "b"
+      },
+      {
+        "Question": "Who was 25 years old when achieving 269.5 fantasy points in 2002?",
+        "Options": {
+          "a": "Shaun Alexander",
+          "b": "Drew Brees",
+          "c": "Derrick Henry",
+          "d": "Eli Manning"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which RB scored 270.1 fantasy points in 2016?",
+        "Options": {
+          "a": "Derrick Henry",
+          "b": "Billy Sims",
+          "c": "Thurman Thomas",
+          "d": "Mark Brunell"
+        },
+        "Answer": "b"
+      },
+      {
+        "Question": "Who had the most fantasy points in 1958?",
+        "Options": {
+          "a": "Jim Brown",
+          "b": "Shaun Alexander",
+          "c": "Eli Manning",
+          "d": "Drew Brees"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 270.6 fantasy points in 2015?",
+        "Options": {
+          "a": "Tyrod Taylor",
+          "b": "Drew Brees",
+          "c": "Russell Wilson",
+          "d": "Blake Bortles"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 26 years old when achieving 270.6 fantasy points in 1981?",
+        "Options": {
+          "a": "Billy Sims",
+          "b": "Barry Sanders",
+          "c": "Thurman Thomas",
+          "d": "Maurice Jones-Drew"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB had the most fantasy points in 2020?",
+        "Options": {
+          "a": "Derek Carr",
+          "b": "Tom Brady",
+          "c": "Tua Tagovailoa",
+          "d": "Russell Wilson"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who achieved 270.4 fantasy points in 2010?",
+        "Options": {
+          "a": "Drew Brees",
+          "b": "Blake Bortles",
+          "c": "Shaun Alexander",
+          "d": "Jim Brown"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which RB scored 271.4 fantasy points in 2022?",
+        "Options": {
+          "a": "Walter Payton",
+          "b": "Christian McCaffrey",
+          "c": "Barry Sanders",
+          "d": "Maurice Jones-Drew"
+        },
+        "Answer": "b"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 1979?",
+        "Options": {
+          "a": "Wilbert Montgomery",
+          "b": "Priest Holmes",
+          "c": "Michael Turner",
+          "d": "Philip Rivers"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 271.2 fantasy points in 2015?",
+        "Options": {
+          "a": "Alex Smith",
+          "b": "Tyrod Taylor",
+          "c": "Tom Brady",
+          "d": "Drew Brees"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 32 years old when achieving 271.2 fantasy points in 1985?",
+        "Options": {
+          "a": "Walter Payton",
+          "b": "Christian McCaffrey",
+          "c": "Tom Brady",
+          "d": "Drew Brees"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 272.1 fantasy points in 2020?",
+        "Options": {
+          "a": "Derek Carr",
+          "b": "Tom Brady",
+          "c": "Tua Tagovailoa",
+          "d": "Russell Wilson"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Who had the most fantasy points in 1973?",
+        "Options": {
+          "a": "O.J. Simpson",
+          "b": "Derek Carr",
+          "c": "Michael Turner",
+          "d": "Tom Brady"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 271.3 fantasy points in 2015?",
+        "Options": {
+          "a": "Derek Carr",
+          "b": "Alex Smith",
+          "c": "Tyrod Taylor",
+          "d": "Maurice Jones-Drew"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 24 years old when achieving 271.3 fantasy points in 2015?",
+        "Options": {
+          "a": "Derek Carr",
+          "b": "Alex Smith",
+          "c": "Tyrod Taylor",
+          "d": "Maurice Jones-Drew"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB had the most fantasy points in 2020?",
+        "Options": {
+          "a": "Derek Carr",
+          "b": "Tom Brady",
+          "c": "Tua Tagovailoa",
+          "d": "Russell Wilson"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who achieved 270.4 fantasy points in 2010?",
+        "Options": {
+          "a": "Drew Brees",
+          "b": "Blake Bortles",
+          "c": "Shaun Alexander",
+          "d": "Jim Brown"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which RB scored 271.4 fantasy points in 2022?",
+        "Options": {
+          "a": "Walter Payton",
+          "b": "Christian McCaffrey",
+          "c": "Barry Sanders",
+          "d": "Maurice Jones-Drew"
+        },
+        "Answer": "b"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 1979?",
+        "Options": {
+          "a": "Wilbert Montgomery",
+          "b": "Priest Holmes",
+          "c": "Michael Turner",
+          "d": "Philip Rivers"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 271.2 fantasy points in 2015?",
+        "Options": {
+          "a": "Alex Smith",
+          "b": "Tyrod Taylor",
+          "c": "Tom Brady",
+          "d": "Drew Brees"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 32 years old when achieving 271.2 fantasy points in 1985?",
+        "Options": {
+          "a": "Walter Payton",
+          "b": "Christian McCaffrey",
+          "c": "Tom Brady",
+          "d": "Drew Brees"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 272.1 fantasy points in 2020?",
+        "Options": {
+          "a": "Derek Carr",
+          "b": "Tom Brady",
+          "c": "Tua Tagovailoa",
+          "d": "Russell Wilson"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Who had the most fantasy points in 1968?",
+        "Options": {
+          "a": "Leroy Kelly",
+          "b": "Derek Carr",
+          "c": "Michael Turner",
+          "d": "Tom Brady"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 272.3 fantasy points in 1996?",
+        "Options": {
+          "a": "Mark Brunell",
+          "b": "Derek Carr",
+          "c": "Michael Turner",
+          "d": "Philip Rivers"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 25 years old when achieving 272.2 fantasy points in 1962?",
+        "Options": {
+          "a": "Abner Haynes",
+          "b": "O.J. Simpson",
+          "c": "Derek Carr",
+          "d": "Michael Turner"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB had the most fantasy points in 2020?",
+        "Options": {
+          "a": "Derek Carr",
+          "b": "Tom Brady",
+          "c": "Tua Tagovailoa",
+          "d": "Russell Wilson"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who achieved 272.2 fantasy points in 1973?",
+        "Options": {
+          "a": "O.J. Simpson",
+          "b": "Abner Haynes",
+          "c": "Derek Carr",
+          "d": "Michael Turner"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which RB scored 272.1 fantasy points in 2020?",
+        "Options": {
+          "a": "Derek Carr",
+          "b": "Michael Turner",
+          "c": "Christian McCaffrey",
+          "d": "Walter Payton"
+        },
+        "Answer": "c"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 1991?",
+        "Options": {
+          "a": "Thurman Thomas",
+          "b": "Leroy Kelly",
+          "c": "Derek Carr",
+          "d": "Michael Turner"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 270.6 fantasy points in 1979?",
+        "Options": {
+          "a": "Joe Theismann",
+          "b": "Derek Carr",
+          "c": "Michael Turner",
+          "d": "Tom Brady"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 26 years old when achieving 270.6 fantasy points in 1981?",
+        "Options": {
+          "a": "Billy Sims",
+          "b": "Barry Sanders",
+          "c": "Thurman Thomas",
+          "d": "Maurice Jones-Drew"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB had the most fantasy points in 2020?",
+        "Options": {
+          "a": "Derek Carr",
+          "b": "Tom Brady",
+          "c": "Tua Tagovailoa",
+          "d": "Russell Wilson"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who achieved 270.8 fantasy points in 1991?",
+        "Options": {
+          "a": "Thurman Thomas",
+          "b": "Derek Carr",
+          "c": "Michael Turner",
+          "d": "Tom Brady"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 271 fantasy points in 1983?",
+        "Options": {
+          "a": "Joe Montana",
+          "b": "Derek Carr",
+          "c": "Michael Turner",
+          "d": "Tom Brady"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 31 years old when achieving 271.4 fantasy points in 2022?",
+        "Options": {
+          "a": "Walter Payton",
+          "b": "Christian McCaffrey",
+          "c": "Barry Sanders",
+          "d": "Maurice Jones-Drew"
+        },
+        "Answer": "b"
+      },
+      {
+        "Question": "Which QB had the most fantasy points in 1985?",
+        "Options": {
+          "a": "Joe Theismann",
+          "b": "Derek Carr",
+          "c": "Michael Turner",
+          "d": "Tom Brady"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who achieved 269.8 fantasy points in 2022?",
+        "Options": {
+          "a": "Derrick Henry",
+          "b": "Drew Brees",
+          "c": "Michael Turner",
+          "d": "Tom Brady"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which RB scored 273.5 fantasy points in 2011?",
+        "Options": {
+          "a": "Matt Ryan",
+          "b": "Drew Brees",
+          "c": "Michael Turner",
+          "d": "Tony Romo"
+        },
+        "Answer": "d"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 2001?",
+        "Options": {
+          "a": "Priest Holmes",
+          "b": "Drew Brees",
+          "c": "Michael Turner",
+          "d": "Tony Romo"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 270.9 fantasy points in 2016?",
+        "Options": {
+          "a": "Tyrod Taylor",
+          "b": "Drew Brees",
+          "c": "Michael Turner",
+          "d": "Tony Romo"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who was 26 years old when achieving 271.2 fantasy points in 1979?",
+        "Options": {
+          "a": "Wilbert Montgomery",
+          "b": "Priest Holmes",
+          "c": "Michael Turner",
+          "d": "Philip Rivers"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 271.3 fantasy points in 2015?",
+        "Options": {
+          "a": "Derek Carr",
+          "b": "Alex Smith",
+          "c": "Tyrod Taylor",
+          "d": "Maurice Jones-Drew"
+        },
+        "Answer": "a"
+    },
+    {
+        "Question": "Which QB scored 269.2 fantasy points in 2009?",
+        "Options": {
+          "a": "Philip Rivers",
+          "b": "Drew Brees",
+          "c": "Michael Vick",
+          "d": "Tom Brady"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who achieved 268.8 fantasy points in 1996?",
+        "Options": {
+          "a": "Terrell Davis",
+          "b": "Eric Dickerson",
+          "c": "George Blanda",
+          "d": "Elvis Grbac"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 268.5 fantasy points in 2016?",
+        "Options": {
+          "a": "Derek Carr",
+          "b": "Philip Rivers",
+          "c": "Ryan Tannehill",
+          "d": "Trevor Lawrence"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who achieved 268.2 fantasy points in 2023?",
+        "Options": {
+          "a": "CeeDee Lamb",
+          "b": "Deebo Samuel",
+          "c": "Calvin Johnson",
+          "d": "Randy Moss"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which QB scored 268.1 fantasy points in 2016?",
+        "Options": {
+          "a": "Russell Wilson",
+          "b": "Dak Prescott",
+          "c": "Matthew Stafford",
+          "d": "Colin Kaepernick"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who had the highest fantasy points in 1962?",
+        "Options": {
+          "a": "Jim Taylor",
+          "b": "Cookie Gilchrist",
+          "c": "Gale Sayers",
+          "d": "Abner Haynes"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Which RB scored 266.3 fantasy points in 2005?",
+        "Options": {
+          "a": "Edgerrin James",
+          "b": "Curtis Martin",
+          "c": "Frank Gore",
+          "d": "Fred Taylor"
+        },
+        "Answer": "a"
+      },
+      {
+        "Question": "Who achieved 265.8 fantasy points in 2019?",
+        "Options": {
+          "a": "Aaron Jones",
+          "b": "Austin Ekeler",
+          "c": "Marshawn Lynch",
+          "d": "William Andrews"
+        },
+        "Answer": "a"
+      },
+      {
+        "question": "Who recorded a fantasy points total of 259.5 in the year 2001?",
+        "options": {
+            "a": "Donovan McNabb",
+            "b": "Randall Cunningham",
+            "c": "Cam Newton",
+            "d": "Joe Morris"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "In which year did Philip Rivers record a fantasy points total of 258.9?",
+        "options": {
+            "a": "2016",
+            "b": "1989",
+            "c": "2013",
+            "d": "2021"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which player had a fantasy points total of 258.8 in 1986?",
+        "options": {
+            "a": "Jerry Rice",
+            "b": "Ben Roethlisberger",
+            "c": "Lydell Mitchell",
+            "d": "Tom Brady"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was 25 years old when they recorded a fantasy points total of 258.6?",
+        "options": {
+            "a": "Tom Brady",
+            "b": "Gerald Riggs",
+            "c": "Lynn Dickey",
+            "d": "Carson Wentz"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which player achieved a fantasy points total of 257.9 in 2014?",
+        "options": {
+            "a": "Antonio Brown",
+            "b": "Isaac Bruce",
+            "c": "Ezekiel Elliott",
+            "d": "Deuce McAllister"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who recorded a fantasy points total of 258.9 in 1986?",
+        "options": {
+            "a": "Joe Morris",
+            "b": "Philip Rivers",
+            "c": "Jerry Rice",
+            "d": "Ben Roethlisberger"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "In which year did Y.A. Tittle record a fantasy points total of 258.7?",
+        "options": {
+            "a": "1975",
+            "b": "1963",
+            "c": "2016",
+            "d": "1985"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which player had a fantasy points total of 258.5 at the age of 34?",
+        "options": {
+            "a": "Lynn Dickey",
+            "b": "Chet Mutryn",
+            "c": "Josh Freeman",
+            "d": "Carson Wentz"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who was 23 years old when they recorded a fantasy points total of 257.8?",
+        "options": {
+            "a": "Isaac Bruce",
+            "b": "Antonio Brown",
+            "c": "Ezekiel Elliott",
+            "d": "Deuce McAllister"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which player achieved a fantasy points total of 257.6 in 2006?",
+        "options": {
+            "a": "Willie Parker",
+            "b": "Ezekiel Elliott",
+            "c": "Deuce McAllister",
+            "d": "Antonio Brown"
+        },
+        "answer": "a"
+    }
+
+]

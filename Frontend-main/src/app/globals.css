@@ -1,0 +1,127 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*========================================== TAILWIND STYLES
+==========================================*/
+
+.divider-primary:before,
+.divider-primary:after {
+  background-color: rgb(204, 199, 199);
+  opacity: 1;
+}
+.divider-vertical:before,
+.divider-vertical:after {
+  background-color: rgb(152, 147, 147);
+}
+.custom-height {
+  height: 564px;
+  position: relative;
+}
+.gaming-effect {
+  color: #ffffff; /* Neon Green */
+  text-shadow: 0 0 2px #ffffff, 0 0 2px #ecf2ec, 0 0 5px #ffffff,
+    0 0 10px #ffffff;
+  animation: flicker 1.5s infinite alternate;
+}
+.drawer {
+  background-color: transparent;
+  max-width: 30rem;
+}
+@keyframes flicker {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.8;
+  }
+  70% {
+    opacity: 0.6;
+  }
+  90% {
+    opacity: 0.9;
+  }
+}
+
+.custom-bg {
+  background-color: var(--black);
+  background-image: radial-gradient(
+    circle farthest-side at 0 -2%,
+    rgba(132, 101, 255, 0.2),
+    transparent 15%
+  );
+  border: 1px solid rgba(191, 191, 191, 0.2);
+  border-radius: 1.5rem;
+}
+.custom-bg-hero {
+  background-color: var(--black);
+  background-image: radial-gradient(
+    circle farthest-side at 0 -2%,
+    rgba(132, 101, 255, 0.2),
+    transparent 15%
+  );
+}
+
+.blurry-bg {
+  background: linear-gradient(114.36deg, #244a84 7.56%, #19074b 105.81%);
+  border: 1px solid rgba(191, 191, 191, 0.2);
+  border-radius: 1.25rem;
+}
+.full-width {
+  width: 100vw;
+}
+
+@media screen and (max-width: 768px) {
+  .center-item {
+    align-items: center;
+  }
+  .centerd-form {
+    align-items: center;
+    justify-content: center;
+  }
+  .hidden {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .dropdown-menu {
+    width: 100%;
+    max-width: 300px;
+    right: 0;
+    left: 0;
+    top: 100%;
+    margin-top: 8px;
+    border-radius: 8px;
+  }
+
+  .dropdown-menu a {
+    font-size: 14px;
+    padding: 10px;
+  }
+}
+
+@media screen and (min-width: 640px) {
+  .hiden {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .hiden-btn {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1700px) {
+  .hide-stepper {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1700px) {
+  .show-stepper {
+    display: flex;
+  }
+}
